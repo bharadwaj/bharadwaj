@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Bharadwaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharadwaj)](https://github.com/bharadwaj/github-readme-stats)
+[![Bharadwaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharadwaj&count_private=true)](https://github.com/bharadwaj/github-readme-stats)
 
 
 <!--
